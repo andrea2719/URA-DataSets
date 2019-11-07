@@ -1,0 +1,36 @@
+"State" "Pop_Cov" "Tot_Crimes"
+"1" "Alabama" 82332 899
+"2" "Arizona" 314822 2671
+"3" "Arkansas" 2755084 59476
+"4" "Colorado" 5055579 47729
+"5" "Connecticut" 2598231 26797
+"6" "Delaware" 917886 22141
+"7" "Idaho" 1595241 17484
+"8" "Illinois" 152293 6170
+"9" "Iowa" 2920652 29635
+"10" "Kansas" 2256072 45302
+"11" "Kentucky" 4313264 32282
+"12" "Louisiana" 248064 445
+"13" "Maine" 285832 4001
+"14" "Massachusetts" 5734473 69778
+"15" "Michigan" 9633716 160878
+"16" "Mississippi" 126059 3495
+"17" "Missouri" 740543 16169
+"18" "Montana" 995410 10776
+"19" "Nebraska" 676706 7350
+"20" "New Hampshire" 1170795 17851
+"21" "North Dakota" 688805 8366
+"22" "Ohio" 8312658 123519
+"23" "Oklahoma" 1328271 12713
+"24" "Oregon" 1216129 13343
+"25" "Rhode Island" 1049246 11619
+"26" "South Carolina" 4715754 106343
+"27" "South Dakota" 769711 9489
+"28" "Tennessee" 6460102 162416
+"29" "Texas" 3483727 46289
+"30" "Utah" 2305381 33039
+"31" "Vermont" 622979 4201
+"32" "Virginia" 8185867 113151
+"33" "Washington" 4691718 56385
+"34" "West Virginia" 1722976 20276
+"35" "Wisconsin" 2163784 24654
